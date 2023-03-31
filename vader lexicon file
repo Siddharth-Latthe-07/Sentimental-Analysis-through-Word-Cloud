@@ -1,0 +1,3 @@
+# Run this file first before running the main file
+import nltk
+nltk.download("vader_lexicon") 
